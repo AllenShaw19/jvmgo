@@ -1,0 +1,3 @@
+package classpath
+
+type Classpath
